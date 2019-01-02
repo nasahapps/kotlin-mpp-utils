@@ -1,0 +1,3 @@
+rootProject.name = 'utils'
+
+enableFeaturePreview('GRADLE_METADATA')
